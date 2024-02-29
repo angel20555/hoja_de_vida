@@ -22,6 +22,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" width="20px">
 
 ## **📞¡Contactame!**
 
@@ -40,6 +41,7 @@
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/watch?v=Xppan8J_23A">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23px" alt="Secret"></a>
   
+[![Gmail Badge](https://img.shields.io/badge/-andresangel3658@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:pablo.pds100@gmail.com)&nbsp;
 
 
 
