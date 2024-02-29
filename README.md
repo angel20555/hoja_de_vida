@@ -26,6 +26,10 @@
 
 <img  align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
+## **Experiencia**
+Ninguna por el momento :)
+
+
 ## **📞¡Contactame!**
 
 <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/watch?v=L6ZhUs3CmpA">
