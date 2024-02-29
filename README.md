@@ -1,4 +1,4 @@
-<h1 align="right"> 👋, I'm Anirudh Rai
+<h1 align="center"> 👋, I'm Anirudh Rai
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 </h1>
 
