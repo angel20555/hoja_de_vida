@@ -24,6 +24,8 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" width="20px">
 
+<img  align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
+
 ## **📞¡Contactame!**
 
 <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/watch?v=L6ZhUs3CmpA">
