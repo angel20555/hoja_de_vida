@@ -12,6 +12,8 @@
 
 🌓 *Me gusta trabajar en equipo⚔️*
 
+## **🛠️Herramientas que he usado:**
+
 
 
 
